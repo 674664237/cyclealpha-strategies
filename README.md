@@ -28,3 +28,9 @@
 - 博客文章：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - ❌ 禁止用于商业用途（如付费课程、代客理财）
 - ✅ 欢迎学习、修改、非商业分享
+## 🚀 快速开始
+
+1. 克隆仓库：
+   ```bash
+   git clone https://github.com/yourname/cyclealpha-strategies.git
+   cd cyclealpha-strategies
